@@ -1,4 +1,5 @@
 ```
+cpp
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -55,4 +56,5 @@ int main(){
         sum += number;
     }
     cout<<sum<<endl;
-}```
+}
+```
